@@ -6,8 +6,8 @@ void add(T x, T y) {
 }
 
 int main() {
-    int a = 3;
-    int b = 8;
+    int a = 5;
+    int b = 2;
 
     std::cout << "Hello from C++ 23 with CMake on Windows/Linux." << std::endl;
 
