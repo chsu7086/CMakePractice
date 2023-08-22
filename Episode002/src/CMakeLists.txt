@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.5)
 project(
     HelloCMake
-    VERSION 1.0.0
+    VERSION 0.0.1
     DESCRIPTION "The first CMake Project"
     LANGUAGES CXX
 )
