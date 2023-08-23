@@ -3,7 +3,7 @@ project(
     Birthday
     VERSION 0.0.1
     DESCRIPTION "Birthday Party Countdown App"
-    LANGUAGE CXX
+    LANGUAGES CXX
 )
 # Target
 add_executable(BirthdayBinary main.cpp)
